@@ -33,7 +33,7 @@ Criar uma página informativa para divulgar e explicar o funcionamento do projet
 </p>
 
 ## Acesse o Projeto Online
-
+[👉 Clique aqui para acessar o site](https://juliamf-dev.github.io/Site-informativo-ProjetoCE/)
 
 ---
 
